@@ -2,7 +2,7 @@
 
 [![Bounty](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
 [![Rank](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/Nghyuu/u-deysumbrella-the-3am-fridge-text-4c3e721d-entry/rank.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
-[![Reward](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/reward.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
+[![Reward](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/Nghyuu/u-deysumbrella-the-3am-fridge-text-4c3e721d-entry/reward.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
 
 One line a smart fridge would text its owner at 3am. The fridge has been awake
 all night — light on, hum humming, leftovers aging — and it has decided this is
